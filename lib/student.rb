@@ -9,5 +9,4 @@ class Student < User
     self.knowledge.push(new_knowledge)
   end
 
-
 end
